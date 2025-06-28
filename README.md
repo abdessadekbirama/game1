@@ -41,3 +41,13 @@ Test your logic and enjoy solving puzzles using randomly chosen images!
    ```bash
    git clone https://github.com/abdessadekbirama/game1.git
    cd game
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Run locally**
+   ```bash
+   npm run dev
+3. **Open Browser**
+   ```bash
+   http://localhost:5173
+
